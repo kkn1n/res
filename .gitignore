@@ -1,0 +1,14 @@
+# File: .gitignore
+# Node 依赖
+node_modules/
+
+
+
+.qoder/
+.vscode/
+.trae/
+.qoder/**
+
+
+
+
